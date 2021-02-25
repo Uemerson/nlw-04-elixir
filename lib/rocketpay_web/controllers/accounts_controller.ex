@@ -1,4 +1,4 @@
-defmodule RocketpayWeb.UsersController do
+defmodule RocketpayWeb.AccountsController do
   use RocketpayWeb, :controller
 
   alias Rocketpay.Account
